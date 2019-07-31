@@ -38,3 +38,14 @@ npm run build:weapp
 ```
 
 输入以上指令会生成一个dist目录，可以在微信开发者工具中打开预览
+
+## Quick Start
+
+>为了代码（qiang）风格(po)统一(zheng)
+配置了eslint与tslint 
+
+```bash
+npm i eslint tslint typescript -g
+cd easydance-client/
+tslint -c tslint.json
+```
